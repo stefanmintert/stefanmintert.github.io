@@ -1,2 +1,2 @@
 # stefanmintert.github.io
-Stefan Mintert, Founder and Owner of Linkwerk.com 
+Repo for my github page at http://stefanmintert.github.io/
